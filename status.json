@@ -1,6 +1,8 @@
 {
   "project": "Neovim Setup",
-  "done": [],
-  "current": "segment",
-  "next": "topic"
+  "done": [
+    "segment"
+  ],
+  "current": "topic",
+  "next": "consumer group"
 }
