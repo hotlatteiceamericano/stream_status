@@ -1,0 +1,42 @@
+body {
+  margin: 0;
+  background: transparent;
+  font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, monospace;
+}
+
+#overlay {
+  padding: 16px 24px;
+}
+
+h1 {
+  font-size: 36px;
+  font-weight: 600;
+  margin: 0 0 8px 0;
+  color: #ffffff;
+}
+
+h2 {
+  font-size: 22px;
+  font-weight: 400;
+  margin: 0;
+  white-space: nowrap;
+}
+
+/* Progress states */
+.done {
+  color: #777777;
+}
+
+.current {
+  color: #ffffff;
+  font-weight: 600;
+}
+
+.next {
+  color: #aaaaaa;
+}
+
+.arrow {
+  color: #555555;
+  padding: 0 4px;
+}

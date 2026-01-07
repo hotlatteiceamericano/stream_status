@@ -1,0 +1,3 @@
+- [x] segment
+- [] topic
+- [] consumer group
