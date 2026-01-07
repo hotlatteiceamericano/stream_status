@@ -1,6 +1,6 @@
 {
-  "project": "writing message queue with Rust",
+  "project": "Message Queue developed with Rust",
   "done": [],
-  "current": "design doc to go through overall components",
-  "next": "segment"
+  "current": "segment",
+  "next": "topic"
 }
