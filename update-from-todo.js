@@ -9,7 +9,6 @@ const todo = [];
 for (const line of todoFile) {
 	const match = line.match(/- \[([ xX]?)\] (.+)/);
 	if (!match) {
-		console.log(`no match for line:  ${line}`);
 		continue;
 	}
 
@@ -17,15 +16,12 @@ for (const line of todoFile) {
 	const task = match[2];
 
 	if (checked) {
-		console.log("found completed todo");
 		done.push(task);
 	} else {
-		console.log("found  todo");
 		todo.push(task);
 	}
 }
 
-console.log(`number of todo: ${todo.length}`);
 const status = JSON.parse(fs.readFileSync("status.json", "utf8"));
 
 status.done = done;

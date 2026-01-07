@@ -1,3 +1,4 @@
+- [] design doc to go through overall components
 - [] segment
 - [] topic
 - [] consumer group

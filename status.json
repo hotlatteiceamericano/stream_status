@@ -1,8 +1,6 @@
 {
-  "project": "Neovim Setup",
-  "done": [
-    "segment"
-  ],
-  "current": "topic",
-  "next": "consumer group"
+  "project": "writing message queue with Rust",
+  "done": [],
+  "current": "segment",
+  "next": "topic"
 }
