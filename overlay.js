@@ -1,3 +1,4 @@
+// read from status.json and update to the html
 const STATUS_URL = "status.json";
 
 async function loadStatus() {
@@ -5,7 +6,8 @@ async function loadStatus() {
 		const res = await fetch(`${STATUS_URL}?t=${Date.now()}`);
 		const data = await res.json();
 
-		document.getElementById("topic").textContent = data.project;
+		console.log(`topic: ${data.topic}`);
+		document.getElementById("topic").textContent = data.topic;
 
 		document.getElementById("progress").innerHTML = `
       <span class="done">${(data.done || []).join(" → ")}</span>

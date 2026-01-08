@@ -1,3 +1,4 @@
+// Read from TODO.md and update the status.json
 import fs from "fs";
 
 const todoFile = fs.readFileSync("TODO.md", "utf8").split("\n");
