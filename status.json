@@ -1,6 +1,6 @@
 {
-  "project": "Message Queue developed with Rust",
+  "topic": "Neovim to have a handy terminal",
   "done": [],
-  "current": "segment",
-  "next": "topic"
+  "current": "design doc to go through overall components",
+  "next": "segment"
 }

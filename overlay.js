@@ -5,7 +5,7 @@ async function loadStatus() {
 		const res = await fetch(`${STATUS_URL}?t=${Date.now()}`);
 		const data = await res.json();
 
-		document.getElementById("project").textContent = data.project;
+		document.getElementById("topic").textContent = data.project;
 
 		document.getElementById("progress").innerHTML = `
       <span class="done">${(data.done || []).join(" → ")}</span>
