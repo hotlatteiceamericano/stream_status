@@ -1,6 +1,8 @@
 {
   "topic": "Neovim setup",
-  "done": [],
-  "current": "design doc to go through overall components",
+  "done": [
+    "design doc to go through overall components"
+  ],
+  "current": "to have a handy terminal",
   "next": "segment"
 }
