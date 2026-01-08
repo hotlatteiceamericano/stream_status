@@ -1,5 +1,5 @@
 - [x] design doc to go through overall components
-- [] to have a handy terminal
+- [] Neovim to have a handy terminal
 - [] segment
 - [] topic
 - [] consumer group
