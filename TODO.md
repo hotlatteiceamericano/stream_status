@@ -1,5 +1,5 @@
 - [x] design doc to go through overall components
-- [] Neovim to have a handy terminal
-- [] segment
-- [] topic
-- [] consumer group
+- [x] Neovim to have a handy terminal -> using tmux's display-popup and assign a keybindings
+- [] implement segment
+- [] implement topic
+- [] implement consumer group
