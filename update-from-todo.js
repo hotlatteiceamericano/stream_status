@@ -2,7 +2,6 @@
 import fs from "fs";
 
 const todoFile = fs.readFileSync("TODO.md", "utf8").split("\n");
-console.log(`number of todoFile lines: ${todoFile.length}`);
 
 const done = [];
 const todo = [];
@@ -31,3 +30,4 @@ status.next = todo.length === 0 ? '' : todo.shift();
 
 fs.writeFileSync("status.json", JSON.stringify(status, null, 2));
 
+console.log(`successfully update ${todo.length} todos`);
