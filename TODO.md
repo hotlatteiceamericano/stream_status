@@ -1,5 +1,7 @@
 - [x] design doc to go through overall components
 - [x] Neovim to have a handy terminal -> using tmux's display-popup and assign a keybindings
-- [] implement segment
+- [x] implement segment's write function
+- [] implement segment's read function
+- [] stream status to display todos vertically
 - [] implement topic
 - [] implement consumer group

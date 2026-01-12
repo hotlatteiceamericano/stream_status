@@ -1,8 +1,9 @@
 {
   "topic": "Neovim setup",
   "done": [
-    "design doc to go through overall components"
+    "design doc to go through overall components",
+    "Neovim to have a handy terminal -> using tmux's display-popup and assign a keybindings"
   ],
-  "current": "Neovim to have a handy terminal",
-  "next": "segment"
+  "current": "implement segment",
+  "next": "implement topic"
 }

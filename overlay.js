@@ -10,7 +10,7 @@ async function loadStatus() {
 		document.getElementById("topic").textContent = data.topic;
 
 		document.getElementById("progress").innerHTML = `
-      <span class="done">${(data.done || []).join(" → ")}</span>
+      <span class="done">${(data.done || []).pop()}</span>
       <span class="arrow"> → </span>
       <span class="current">${data.current}</span>
       <span class="arrow"> → </span>
