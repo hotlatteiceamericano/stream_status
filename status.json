@@ -3,8 +3,10 @@
   "done": [
     "design doc to go through overall components",
     "Neovim to have a handy terminal -> using tmux's display-popup and assign a keybindings",
-    "implement segment's write function"
+    "implement segment's write function",
+    "implement segment's read function",
+    "implement topic's write function"
   ],
-  "current": "implement segment's read function",
-  "next": "stream status to display todos vertically"
+  "current": "implement topic's read function",
+  "next": ""
 }

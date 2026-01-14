@@ -3,4 +3,8 @@
 - [x] implement segment's write function
 - [x] implement segment's read function
 - [x] implement topic's write function
-- [] implement topic's read function
+- [x] implement topic's read function
+- [] implement Topic::from to load a topic from its index.json file
+- [] implement topic.save to save a topic as a json file under its directory
+- [] implement consumer_group.write
+- [] implement consumer_group.read
