@@ -5,8 +5,9 @@
     "Neovim to have a handy terminal -> using tmux's display-popup and assign a keybindings",
     "implement segment's write function",
     "implement segment's read function",
-    "implement topic's write function"
+    "implement topic's write function",
+    "implement topic's read function"
   ],
-  "current": "implement topic's read function",
-  "next": ""
+  "current": "implement Topic::from to load a topic from its index.json file",
+  "next": "implement topic.save to save a topic as a json file under its directory"
 }

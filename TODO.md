@@ -4,7 +4,8 @@
 - [x] implement segment's read function
 - [x] implement topic's write function
 - [x] implement topic's read function
-- [] implement Topic::from to load a topic from its index.json file
-- [] implement topic.save to save a topic as a json file under its directory
-- [] implement consumer_group.write
-- [] implement consumer_group.read
+- [x] implement Topic::from to load a topic from its index.json file
+- [x] implement topic.save to save a topic as a json file under its directory
+- [x] implement consumer_group.write
+- [x] implement consumer_group.read
+- [] implement a CLI interface to use it
