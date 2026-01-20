@@ -8,4 +8,6 @@
 - [x] implement topic.save to save a topic as a json file under its directory
 - [x] implement consumer_group.write
 - [x] implement consumer_group.read
-- [] implement a CLI interface to use it
+- [x] write integration test
+- [] update neovim config
+- [] plan for the next project
