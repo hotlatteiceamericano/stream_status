@@ -10,8 +10,9 @@
     "implement Topic::from to load a topic from its index.json file",
     "implement topic.save to save a topic as a json file under its directory",
     "implement consumer_group.write",
-    "implement consumer_group.read"
+    "implement consumer_group.read",
+    "write integration test"
   ],
-  "current": "implement a CLI interface to use it",
-  "next": ""
+  "current": "update neovim config",
+  "next": "plan for the next project"
 }

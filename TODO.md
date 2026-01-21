@@ -9,5 +9,5 @@
 - [x] implement consumer_group.write
 - [x] implement consumer_group.read
 - [x] write integration test
-- [] update neovim config
-- [] plan for the next project
+- [x] update neovim config
+- [] explore and design next project
