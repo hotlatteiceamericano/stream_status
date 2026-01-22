@@ -12,5 +12,5 @@
 - [x] update neovim config
 - [x] explore and design next project
 - [x] writing design doc
-- [] implementing storing the object
-- [] implemen object metadata
+- [x] implemen object metadata
+- [] try start with the http layer, so that I may know besides than metadata struct, how to design for object store struct
