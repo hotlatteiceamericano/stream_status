@@ -12,8 +12,9 @@
     "implement consumer_group.write",
     "implement consumer_group.read",
     "write integration test",
-    "update neovim config"
+    "update neovim config",
+    "explore and design next project"
   ],
-  "current": "explore and design next project",
+  "current": "writing design doc",
   "next": ""
 }

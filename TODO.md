@@ -11,4 +11,5 @@
 - [x] write integration test
 - [x] update neovim config
 - [x] explore and design next project
-- [] writing design doc
+- [x] writing design doc
+- [] implementing storing the object
