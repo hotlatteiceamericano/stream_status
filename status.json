@@ -1,5 +1,5 @@
 {
-  "topic": "Message queue developed with Rust",
+  "topic": "Writing design doc for S3-like Object store",
   "done": [
     "design doc to go through overall components",
     "Neovim to have a handy terminal -> using tmux's display-popup and assign a keybindings",
@@ -11,8 +11,9 @@
     "implement topic.save to save a topic as a json file under its directory",
     "implement consumer_group.write",
     "implement consumer_group.read",
-    "write integration test"
+    "write integration test",
+    "update neovim config"
   ],
-  "current": "update neovim config",
-  "next": "plan for the next project"
+  "current": "explore and design next project",
+  "next": ""
 }

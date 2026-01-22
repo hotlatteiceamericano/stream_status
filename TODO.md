@@ -10,4 +10,5 @@
 - [x] implement consumer_group.read
 - [x] write integration test
 - [x] update neovim config
-- [] explore and design next project
+- [x] explore and design next project
+- [] writing design doc
