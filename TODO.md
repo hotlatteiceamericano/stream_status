@@ -13,3 +13,4 @@
 - [x] explore and design next project
 - [x] writing design doc
 - [] implementing storing the object
+- [] implemen object metadata
